@@ -1,0 +1,171 @@
+load xfoil.foil
+PCOP
+
+PANE
+
+oper
+iter
+120
+
+oper
+vpar
+n
+9
+
+
+
+oper
+re 100000
+visc
+
+
+oper
+mach 0.544327
+pacc
+
+
+alfa 2
+pwrt
+xfoil_1_pwrt.dat
+plis
+pacc
+
+
+
+
+oper
+mach 0.481305
+pacc
+
+
+alfa 2
+pwrt
+2
+xfoil_2_pwrt.dat
+plis
+pacc
+
+
+
+
+oper
+mach 0.648106
+pacc
+
+
+alfa 2
+pwrt
+3
+xfoil_3_pwrt.dat
+plis
+pacc
+
+
+
+
+oper
+mach 0.522064
+pacc
+
+
+alfa 2
+pwrt
+4
+xfoil_4_pwrt.dat
+plis
+pacc
+
+
+
+
+oper
+mach 0.371951
+pacc
+
+
+alfa 2
+pwrt
+5
+xfoil_5_pwrt.dat
+plis
+pacc
+
+
+
+
+oper
+mach 0.411174
+pacc
+
+
+alfa 2
+pwrt
+6
+xfoil_6_pwrt.dat
+plis
+pacc
+
+
+
+
+oper
+mach 0.331774
+pacc
+
+
+alfa 2
+pwrt
+7
+xfoil_7_pwrt.dat
+plis
+pacc
+
+
+
+
+oper
+mach 0.450082
+pacc
+
+
+alfa 2
+pwrt
+8
+xfoil_8_pwrt.dat
+plis
+pacc
+
+
+
+
+oper
+mach 0.429795
+pacc
+
+
+alfa 2
+pwrt
+9
+xfoil_9_pwrt.dat
+plis
+pacc
+
+
+
+
+oper
+mach 0.572994
+pacc
+
+
+alfa 2
+pwrt
+10
+xfoil_10_pwrt.dat
+plis
+pacc
+
+
+plis
+
+quit
